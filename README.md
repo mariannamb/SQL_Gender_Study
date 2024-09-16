@@ -1,11 +1,13 @@
 # 👋🏼 Introduction
-**What are the sex-based disparities within households in the Philippines?** How does a person's sex dictate their life experience? Does it affect their family life, education, employment, and finances?
+**How does gender influence the roles and responsibilities of household heads and members in the Philippines?**
+In what ways does gender shape family dynamics within households?
+To what extent do gender roles impact access to education, employment opportunities, and financial literacy?
 
 These questions popped into my head after reading *‘Invisible Women: Exposing Data Bias in a World Designed for Men’* by Caroline Criado Perez. The book discussed **the gender data gap,** and highlighted multiple examples of gender bias mainly in Europe and America. As a Filipino, I wondered how similar or different things were for my country. 🤔
 
-I worked with a public dataset available on the website of the Philippine Statistics Authority: Annual Poverty Indicators Survey 2019.* I figured that analyzing this sex-disaggregated data would help me uncover valuable insights into the lives of men vs. women in the Philippines. Using SQL and Tableau, I analyzed relationships between certain variables and visualized my results. 📊
+I worked with a public dataset available on the website of the Philippine Statistics Authority: Annual Poverty Indicators Survey 2019.* I figured that analyzing this sex-disaggregated data would help me uncover valuable insights into families in the Philippines and the presence and impact of gender roles. Using SQL and Tableau, I analyzed relationships between certain variables and visualized my results. 📊
 
-This is the second part of my project. The first part was shared on Tableau Public and can be viewed [here](https://public.tableau.com/views/Sex-BasedDisparitieswithinthePhilippines2019/HouseholdMembers2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+This is the second part of my project. The first part was shared on Tableau Public and can be viewed [here](https://public.tableau.com/views/GenderRolesinthePhilippines2019/HeadofHousehold1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 **I decided to use the 2019 dataset as this was the latest one available on the website that was the most complete. I hope to keep updating this project as new data becomes available.*
 
@@ -243,7 +245,7 @@ Despite majority of male members having work, a large number of them do not own 
 - 💰 19,321 male heads (45.56% of all male working household members) stated having **no bank account** or other financial account despite having had work in the past 6 months.
 
 # ✅ Conclusions
-The following are the assumptions I have come to about sex disparities in the Philippines based on my analysis of the data:
+The following are the assumptions I have come to about gender roles in the Philippines based on my analysis of the data:
 1. **In Filipino culture, men are still heavily influenced or pressured to be the main provider of the household.**
     - 76.5% of all households surveyed were headed by males.
     - 88.61% of male heads were married/living with partner, with 88.01% of them being employed. This means that among married couples, men were usually the working head of the household.
@@ -261,4 +263,4 @@ The following are the assumptions I have come to about sex disparities in the Ph
 ### 📝 Closing Thoughts
 Working on this project made me realize that the Philippines still has a long way to go when it comes to gender equality. Both men and women are victims of societal pressures which lead to inequalities in family, education, and employment. It is also evident that they lack opportunities to become more aware of these gaps and take steps to closing them.
 
-Although, the data used for this project was from 2019 which was 5 years ago, so hopefully things have started to improve since then. I hope the most recent data will become publicly available soon so further studies can be done on the progress of the country, particularly in gender equality. ⚖️
+However, the data used for this project was from 2019 (which was 5 years ago), so hopefully things have started to improve since then. I hope the most recent data will become publicly available soon so further studies can be done on the progress of the country, particularly in gender equality. ⚖️
