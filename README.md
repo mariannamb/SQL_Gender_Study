@@ -225,42 +225,68 @@ ORDER BY
 Despite majority of male members having work, a large number of them do not own a bank account. For females, most that own a bank account are the spouse or daughter of the head. However, this is still outnumbered by those who do not have a bank account. I wanted to know more about why most do not own a bank account, but unfortunately this study is limited by the data available, and there was no data on reasons for not owning one.
 
 # 💡 Valuable Takeaways
-- 💼 Female heads that were **married/living with partner** were 62.21% employed and 37.79% unemployed, while those that were **widowed** were 49.67% employed and 50.33% unemployed.
-- 📘 The top 3 highest grades completed by **employed male heads** were JHS Graduate, Grade 1 to 6//7, and JHS Undergraduate.
-- 📕The top 3 highest grades completed by **employed female heads** were JHS Graduate, Bachelor Level Education Graduate, and Grade 1 to 6/7.
-- 🖌️ The top 5 reasons of male household members for not attending school were:
+- 💼 Among **female heads** of households, those who were **married or living with a partner** had an employment rate of 62.21%, while 37.79% were unemployed. For **widowed** female heads, 49.67% were employed and 50.33% were unemployed.
+
+- 📘 The top three educational levels completed by **employed male heads** were:
+
+    1. Junior High School (JHS) Graduate
+    2. Grades 1–6/7
+    3. JHS Undergraduate
+
+- 📕 The top three educational levels completed by **employed female heads** were:
+
+    1. Junior High School (JHS) Graduate
+    2. Bachelor’s Degree Graduate
+    3. Grades 1–6/7
+
+- 🖌️ The top five reasons **male household members** cited for not attending school were:
+
     1. Employment
-    2. Too young to go to school
+    2. Too young to attend school
     3. Lack of personal interest
-    4. High cost of education/financial concern
-    5. Finished schooling/post secondary/college.
-- Of the 2,860 members that mentioned **employment** as their reason for not attending school, **2,075 are sons of the family head.**
-- 🖍️ The top 5 reasons of female household members for not attending school were:
-    1. Marriage/family matters
-    2. Too young to go to school
+    4. High cost of education/financial concerns
+    5. Finished schooling or post-secondary or college
+
+    - Of the 2,860 members who cited **employment** as their reason for not attending school, **2,075 were sons** of the family head.
+
+- 🖍️ The top five reasons **female household members** cited for not attending school were:
+
+    1. Marriage or family matters
+    2. Too young to attend school
     3. Employment
-    4. Finished schooling/post secondary/college
+    4. Finished schooling or post-secondary or college
     5. Lack of personal interest
-- Of the 2,182 members that mentioned **marriage/family matters** as their reason for not attending school, **840 are the spouse of the family head,** 671 are the daughters, and 468 are the daughters-in-law.
-- 💰 19,321 male heads (45.56% of all male working household members) stated having **no bank account** or other financial account despite having had work in the past 6 months.
+
+    - Of the 2,182 members who cited **marriage or family matters** as their reason for not attending school, **840 were spouses** of the family head, **671 were daughters**, and **468 were daughters-in-law**.
+
+- 💰 A significant number of **employed male heads of households** (19,321 or 45.56%) reported having **no bank or financial account,** despite having had work in the past six months.
 
 # ✅ Conclusions
-The following are the assumptions I have come to about gender roles in the Philippines based on my analysis of the data:
-1. **In Filipino culture, men are still heavily influenced or pressured to be the main provider of the household.**
-    - 76.5% of all households surveyed were headed by males.
-    - 88.61% of male heads were married/living with partner, with 88.01% of them being employed. This means that among married couples, men were usually the working head of the household.
-    - 2,860 male household members mentioned employment as their reason for not attending school. This shows a prioritization of working/earning money over finishing school. 
-2. **Meanwhile, women are influenced or pressured to be the homemakers or main caretakers of the family.**
-    - Only 23.5% of all households surveyed were headed by females. 42.08% of them were unemployed.
-    - 30.01% of female heads were married/living with partner while 50.9% were widowed. This shows that households with married couples are usually headed by men, while women only become the head upon the passing of their spouse.
-    - 2,182 female household members mentioned marriage/family matters as their reason for not attending school. 840 of them were spouses of the family head, and 1,139 were daughters or daughters-in-law of the family head. This shows that marriage or family took precedence over education.
-3. **Both men and women should be given the opportunity to be more financially literate.**
-    - 53.52% of male heads and 45.85% of female heads did not own a bank account or other type of financial account.
-    - Out of 86,532 male household members surveyed, only 10,968 of those who had work also owned a bank/financial account. 31,443 of those who had work did not own a bank/financial account.
-    - Out of 84,521 female household members surveyed, only 11,613 of those who had work also owned a bank/financial account. 16,114 of those who had work did not own a bank/financial account.
-    - This shows a gap in financial literacy which could be caused by many factors, such as lack of proper access to such literacy, inadequacy of compensation leading to living paycheck to paycheck, and more.
 
-### 📝 Closing Thoughts
+Based on my analysis of the PSA APIS 2019 dataset, I have identified the following assumptions regarding gender roles in the Philippines:
+
+1. **Men are heavily influenced or pressured to be the main providers for their households.**
+    - 76.5% of all surveyed households were headed by males.
+    - 88.61% of male heads were married or living with a partner, and 88.01% of these male heads were employed. This suggests that, in married households, men are typically the primary earners.
+    - Additionally, 2,860 male household members cited employment as their reason for not attending school, indicating a prioritization of work and income over completing school.
+   
+2. **Women are more likely to take on the role of homemakers or primary caretakers.**
+    - Only 23.5% of surveyed households were headed by females, and 42.08% of these female heads were unemployed.
+    - While 30.01% of female heads were married or living with a partner, 50.9% were widowed. This indicates that men typically head households in married couples, and women often assume the role only after their spouse passes away.
+    - Furthermore, 2,182 female household members listed marriage or family matters as their reason for not attending school. Of these, 840 were spouses of the household head, and 1,139 were daughters or daughters-in-law, highlighting the prioritization of family duties over education for many women.
+
+3. **There is a need to promote financial literacy for both men and women.**
+    - 53.52% of male heads and 45.85% of female heads did not have a bank account or other financial account.
+    - Among 86,532 male household members, only 10,968 of those who had work owned a bank or financial account, while 31,443 employed male members did not.
+    - Similarly, among 84,521 female household members, only 11,613 working women had a bank or financial account, while 16,114 did not.
+    - These findings reveal a significant gap in financial literacy and access, potentially driven by factors such as limited access to financial education, inadequate wages, or economic challenges that lead to living paycheck to paycheck.
+
+---
+
+These conclusions suggest that cultural norms in the Philippines continue to shape the roles of men and women within households, and addressing gaps in education and financial literacy could help promote more balanced opportunities for both genders.
+
+
+## 📝 Closing Thoughts
 Working on this project made me realize that the Philippines still has a long way to go when it comes to gender equality. Both men and women are victims of societal pressures which lead to inequalities in family, education, and employment. It is also evident that they lack opportunities to become more aware of these gaps and take steps to closing them.
 
 However, the data used for this project was from 2019 (which was 5 years ago), so hopefully things have started to improve since then. I hope the most recent data will become publicly available soon so further studies can be done on the progress of the country, particularly in gender equality. ⚖️
