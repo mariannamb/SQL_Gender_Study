@@ -171,7 +171,7 @@ As we saw previously, most heads worked for private establishments or were self-
 ## 3. Highest Grade Completed by Head
 
 I wanted to find out if the highest grade completed by the head affected their employment status and work class.
-Because there are multiple levels of highest grades completed, the CTA I created was quite lengthy. I won't embed the code here, but you can check out the full code [in this link](analysis/3_head_hgc.sql).
+Because there are multiple levels of highest grades completed, the CTE I created was quite lengthy. I won't embed the code here, but you can check out the full code [in this link](analysis/3_head_hgc.sql).
 
 ![HGC vs. Employment Status of Head Table](images/hgc_v_employmenthead.png)
 ![HGC vs. Employment Treemap Male](images/hgc_v_employ_treemap_m.png)
@@ -187,7 +187,7 @@ Earlier, we saw that most employed male heads completed JHS or Grades 1 to 6/7. 
 For employed female heads, those that were JHS Graduates were mostly self-employed without any employee, but the Bachelor Level Education Graduates most commonly worked for government.
 
 ## 4. Schooling Status of Household Member
-Now I wanted to take a deeper look at all household members not currently attending school. Their reason for not attending school could be related to their highest grade completed. Again, the CTA I created was lengthy so you can check out the full code [here](analysis/4_hhmember_school.sql).
+Now I wanted to take a deeper look at all household members not currently attending school. Their reason for not attending school could be related to their highest grade completed. Again, the CTE I created was lengthy so you can check out the full code [here](analysis/4_hhmember_school.sql).
 
 ![HGC vs. Reason Not Attending Male](images/hgc_v_reason_m.png)
 ![HGC vs. Reason Not Attending Female](images/hgc_v_reason_f.png)
@@ -284,6 +284,8 @@ Based on my analysis of the PSA APIS 2019 dataset, I have identified the followi
 ---
 
 These conclusions suggest that cultural norms in the Philippines continue to shape the roles of men and women within households, and addressing gaps in education and financial literacy could help promote more balanced opportunities for both genders.
+
+However, it should be emphasized that this is a quantitative analysis. Numbers are only one part of the story, and there is much more to be explored beyond what the numbers tell us. More qualitative analyses can be done to add a richer context to these statistical findings and provide deeper insights into the existence and perpetuation of gender roles.
 
 
 ## 📝 Closing Thoughts
